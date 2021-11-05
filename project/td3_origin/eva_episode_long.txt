@@ -1,0 +1,100 @@
+episode:  1 Step: 132 | Arrive!!! arrive_time: 1 duation_time: 26.863
+episode:  2 Step: 436 | Arrive!!! arrive_time: 2 duation_time: 87.749
+episode:  3 Step:   6 | done!!! done_time:  1 duation_time: 1.099
+episode:  4 Step: 220 | Arrive!!! arrive_time: 3 duation_time: 45.216
+episode:  5 Step: 326 | Arrive!!! arrive_time: 4 duation_time: 65.730
+episode:  6 Step: 500 | overtime!!! duation_time: 99.955
+episode:  7 Step: 166 | Arrive!!! arrive_time: 5 duation_time: 34.317
+episode:  8 Step: 180 | Arrive!!! arrive_time: 6 duation_time: 36.479
+episode:  9 Step: 206 | Arrive!!! arrive_time: 7 duation_time: 41.682
+episode:  10 Step: 190 | done!!! done_time:  2 duation_time: 37.918
+episode:  11 Step: 145 | Arrive!!! arrive_time: 8 duation_time: 29.832
+episode:  12 Step: 311 | Arrive!!! arrive_time: 9 duation_time: 62.524
+episode:  13 Step: 141 | Arrive!!! arrive_time: 10 duation_time: 28.675
+episode:  14 Step: 223 | Arrive!!! arrive_time: 11 duation_time: 44.703
+episode:  15 Step: 500 | overtime!!! duation_time: 99.943
+episode:  16 Step: 131 | Arrive!!! arrive_time: 12 duation_time: 26.918
+episode:  17 Step: 370 | Arrive!!! arrive_time: 13 duation_time: 74.541
+episode:  18 Step: 244 | Arrive!!! arrive_time: 14 duation_time: 49.305
+episode:  19 Step: 281 | Arrive!!! arrive_time: 15 duation_time: 56.125
+episode:  20 Step: 189 | Arrive!!! arrive_time: 16 duation_time: 38.288
+episode:  21 Step: 500 | overtime!!! duation_time: 100.000
+episode:  22 Step: 141 | Arrive!!! arrive_time: 17 duation_time: 29.461
+episode:  23 Step: 219 | Arrive!!! arrive_time: 18 duation_time: 44.288
+episode:  24 Step: 159 | Arrive!!! arrive_time: 19 duation_time: 32.263
+episode:  25 Step: 500 | overtime!!! duation_time: 99.978
+episode:  26 Step: 160 | Arrive!!! arrive_time: 20 duation_time: 33.284
+episode:  27 Step: 345 | Arrive!!! arrive_time: 21 duation_time: 69.132
+episode:  28 Step: 192 | Arrive!!! arrive_time: 22 duation_time: 38.882
+episode:  29 Step: 369 | Arrive!!! arrive_time: 23 duation_time: 73.946
+episode:  30 Step: 153 | Arrive!!! arrive_time: 24 duation_time: 31.064
+episode:  31 Step: 211 | Arrive!!! arrive_time: 25 duation_time: 42.695
+episode:  32 Step: 309 | Arrive!!! arrive_time: 26 duation_time: 62.340
+episode:  33 Step: 142 | Arrive!!! arrive_time: 27 duation_time: 28.871
+episode:  34 Step: 182 | Arrive!!! arrive_time: 28 duation_time: 36.878
+episode:  35 Step: 176 | Arrive!!! arrive_time: 29 duation_time: 35.682
+episode:  36 Step: 361 | Arrive!!! arrive_time: 30 duation_time: 72.751
+episode:  37 Step: 231 | Arrive!!! arrive_time: 31 duation_time: 46.113
+episode:  38 Step: 500 | overtime!!! duation_time: 100.050
+episode:  39 Step: 203 | Arrive!!! arrive_time: 32 duation_time: 41.814
+episode:  40 Step: 193 | Arrive!!! arrive_time: 33 duation_time: 39.086
+episode:  41 Step: 174 | Arrive!!! arrive_time: 34 duation_time: 35.283
+episode:  42 Step: 362 | Arrive!!! arrive_time: 35 duation_time: 72.942
+episode:  43 Step: 500 | overtime!!! duation_time: 100.073
+episode:  44 Step: 169 | Arrive!!! arrive_time: 36 duation_time: 34.986
+episode:  45 Step: 338 | Arrive!!! arrive_time: 37 duation_time: 68.128
+episode:  46 Step: 338 | Arrive!!! arrive_time: 38 duation_time: 68.132
+episode:  47 Step: 150 | Arrive!!! arrive_time: 39 duation_time: 30.277
+episode:  48 Step: 287 | Arrive!!! arrive_time: 40 duation_time: 57.917
+episode:  49 Step: 210 | Arrive!!! arrive_time: 41 duation_time: 42.489
+episode:  50 Step: 500 | overtime!!! duation_time: 99.947
+episode:  51 Step: 226 | Arrive!!! arrive_time: 42 duation_time: 46.349
+episode:  52 Step: 287 | Arrive!!! arrive_time: 43 duation_time: 57.912
+episode:  53 Step: 223 | Arrive!!! arrive_time: 44 duation_time: 45.097
+episode:  54 Step: 500 | overtime!!! duation_time: 99.913
+episode:  55 Step: 169 | Arrive!!! arrive_time: 45 duation_time: 34.523
+episode:  56 Step: 255 | Arrive!!! arrive_time: 46 duation_time: 51.511
+episode:  57 Step: 274 | Arrive!!! arrive_time: 47 duation_time: 54.899
+episode:  58 Step: 263 | Arrive!!! arrive_time: 48 duation_time: 53.120
+episode:  59 Step: 260 | Arrive!!! arrive_time: 49 duation_time: 52.304
+episode:  60 Step: 255 | Arrive!!! arrive_time: 50 duation_time: 51.492
+episode:  61 Step: 254 | Arrive!!! arrive_time: 51 duation_time: 51.307
+episode:  62 Step: 289 | Arrive!!! arrive_time: 52 duation_time: 58.319
+episode:  63 Step: 173 | Arrive!!! arrive_time: 53 duation_time: 34.672
+episode:  64 Step: 388 | Arrive!!! arrive_time: 54 duation_time: 78.150
+episode:  65 Step: 500 | overtime!!! duation_time: 99.955
+episode:  66 Step: 170 | Arrive!!! arrive_time: 55 duation_time: 35.106
+episode:  67 Step: 218 | Arrive!!! arrive_time: 56 duation_time: 44.093
+episode:  68 Step: 373 | Arrive!!! arrive_time: 57 duation_time: 75.139
+episode:  69 Step: 326 | Arrive!!! arrive_time: 58 duation_time: 65.735
+episode:  70 Step: 148 | Arrive!!! arrive_time: 59 duation_time: 30.073
+episode:  71 Step: 160 | Arrive!!! arrive_time: 60 duation_time: 32.472
+episode:  72 Step: 173 | Arrive!!! arrive_time: 61 duation_time: 35.080
+episode:  73 Step: 178 | Arrive!!! arrive_time: 62 duation_time: 35.685
+episode:  74 Step: 286 | Arrive!!! arrive_time: 63 duation_time: 57.519
+episode:  75 Step: 315 | Arrive!!! arrive_time: 64 duation_time: 63.529
+episode:  76 Step: 119 | Arrive!!! arrive_time: 65 duation_time: 24.269
+episode:  77 Step: 323 | Arrive!!! arrive_time: 66 duation_time: 65.133
+episode:  78 Step: 155 | Arrive!!! arrive_time: 67 duation_time: 31.273
+episode:  79 Step: 220 | done!!! done_time:  3 duation_time: 44.011
+episode:  80 Step: 210 | Arrive!!! arrive_time: 68 duation_time: 43.183
+episode:  81 Step: 303 | Arrive!!! arrive_time: 69 duation_time: 61.122
+episode:  82 Step: 279 | Arrive!!! arrive_time: 70 duation_time: 56.301
+episode:  83 Step: 153 | Arrive!!! arrive_time: 71 duation_time: 31.075
+episode:  84 Step: 312 | Arrive!!! arrive_time: 72 duation_time: 62.716
+episode:  85 Step: 239 | Arrive!!! arrive_time: 73 duation_time: 48.301
+episode:  86 Step: 143 | Arrive!!! arrive_time: 74 duation_time: 29.075
+episode:  87 Step: 174 | Arrive!!! arrive_time: 75 duation_time: 35.270
+episode:  88 Step: 254 | Arrive!!! arrive_time: 76 duation_time: 51.298
+episode:  89 Step: 317 | Arrive!!! arrive_time: 77 duation_time: 63.926
+episode:  90 Step: 285 | Arrive!!! arrive_time: 78 duation_time: 57.522
+episode:  91 Step: 233 | Arrive!!! arrive_time: 79 duation_time: 47.099
+episode:  92 Step: 155 | Arrive!!! arrive_time: 80 duation_time: 31.277
+episode:  93 Step: 179 | Arrive!!! arrive_time: 81 duation_time: 36.268
+episode:  94 Step: 167 | Arrive!!! arrive_time: 82 duation_time: 33.482
+episode:  95 Step: 500 | overtime!!! duation_time: 99.981
+episode:  96 Step: 179 | Arrive!!! arrive_time: 83 duation_time: 37.080
+episode:  97 Step: 262 | Arrive!!! arrive_time: 84 duation_time: 52.904
+episode:  98 Step: 146 | Arrive!!! arrive_time: 85 duation_time: 29.681
+episode:  99 Step: 396 | Arrive!!! arrive_time: 86 duation_time: 79.560
+episode:  100 Step: 318 | Arrive!!! arrive_time: 87 duation_time: 63.727
